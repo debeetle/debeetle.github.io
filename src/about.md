@@ -17,6 +17,6 @@ tags:
 
 ## Contact
 
-Email: hi#imalan.cn (replace # with @)
+Outlook Email: zhangchaoyi13 (replace # with @)
 
 Telegram：[chaosB](https://t.me/chaosB)
