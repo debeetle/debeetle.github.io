@@ -2,7 +2,7 @@
 layout: page
 title: 关于
 slug: about
-date: 2017/06/28 17:26:00
+date: 2020/02/21 21:03:00
 status: publish
 author: AlanDecode
 categories: 
@@ -12,11 +12,11 @@ tags:
   - theme
 ---
 
-这里是我的个人博客，通过 GitHub 管理与构建。
+实在坚持不下去的时候，总得找个人说说话。
 
 
 ## Contact
 
 Email: hi#imalan.cn (replace # with @)
 
-Telegram：[AlanDecode](https://t.me/alandecode)
+Telegram：[chaosB](https://t.me/chaosB)
