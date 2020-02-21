@@ -17,6 +17,6 @@ tags:
 
 ## Contact
 
-Outlook Email: zhangchaoyi13 (replace # with @)
+Outlook Email: zhangchaoyi13 (好像@outlook.com会失败)
 
 Telegram：[chaosB](https://t.me/chaosB)
