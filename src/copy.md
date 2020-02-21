@@ -6,7 +6,7 @@ date: 2020-2-21 20:03
 status: publish
 author: chaos
 categories: 
-  - 默认分类
+  - Maverick
 tags:
   - 博客
   - Maverick
