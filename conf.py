@@ -14,19 +14,19 @@ template = {
     "path": "../Galileo"
 }
 enable_jsdelivr = {
-    "enabled": False,
-    "repo": ""
+    "enabled": True,
+    "repo": "moneytold/moneytold.github.io@master"
 }
 
 # 站点设置
-site_name = "我的个人博客"
+site_name = "实验报告"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
-author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+site_build_date = "2020-2-20T16:51+08:00"
+author = "chaos"
+email = "zhangchaoyi13@foxmail.com"
+author_homepage = "https://github.com/moneytold"
+description = "好耍不过人耍人"
+key_words = ['Maverick', 'chaos', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
