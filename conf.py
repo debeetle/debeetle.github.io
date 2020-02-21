@@ -14,7 +14,7 @@ template = {
     "path": "../Galileo"
 }
 enable_jsdelivr = {
-    "enabled": True,
+    "enabled": False,
     "repo": "moneytold/moneytold.github.io@master"
 }
 
