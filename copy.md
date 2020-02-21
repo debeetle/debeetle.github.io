@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 轮子的新生
-slug: what-does-slug-mean
+slug: copy
 date: 2020-2-21 20:03
 status: publish
 author: chaos
@@ -10,7 +10,8 @@ categories:
 tags:
   - 博客
   - Maverick
-  - Github
+  - GitHub
+  - copy
 excerpt: blog by gitting
 ---
 
