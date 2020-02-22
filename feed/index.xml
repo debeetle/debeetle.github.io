@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>实验报告</title><link>/</link><description>好耍不过人耍人</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/logo.png</url><title>实验报告</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Sat, 22 Feb 2020 14:13:48 +0806</lastBuildDate><pubDate>Sat, 22 Feb 2020 14:13:48 +0806</pubDate><item><title>Hello World!</title><link>/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>实验报告</title><link>/</link><description>好耍不过人耍人</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/logo.png</url><title>实验报告</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Sat, 22 Feb 2020 14:34:38 +0806</lastBuildDate><pubDate>Sat, 22 Feb 2020 14:34:38 +0806</pubDate><item><title>Hello World!</title><link>/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -50,15 +50,15 @@
 &lt;p&gt;$$C_{m\times k}=A_{m\times n}\cdot B_{n\times k}$$&lt;/p&gt;
 &lt;h2&gt;Figures&lt;/h2&gt;
 &lt;h3&gt;Single figure&lt;/h3&gt;
-&lt;p&gt;&lt;figure style="flex: 92.88888888888889" &gt;&lt;img width="836" height="450" src="https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/archives/assets/e0affbc80ccb2d596c87b520e37e7071.jpg" /&gt;&lt;figcaption&gt;Princess Mononoke&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img data-width="836" data-height="450" src="https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/archives/assets/e0affbc80ccb2d596c87b520e37e7071.jpg" alt="Princess Mononoke" /&gt;&lt;figcaption&gt;Princess Mononoke&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h3&gt;Photoset&lt;/h3&gt;
 &lt;div class="photos"&gt;
-&lt;figure style="flex: 75.0" &gt;&lt;img width="4032" height="2688" src="https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/archives/assets/4956a144888cdbbb6c2df1d1d15384b0.jpeg" /&gt;&lt;/figure&gt;
-&lt;figure style="flex: 50.03720238095238" &gt;&lt;img width="2690" height="2688" src="https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/archives/assets/4c66f0da616b08325b3aaa4c8b3f68e1.jpg" /&gt;&lt;/figure&gt;
-&lt;figure style="flex: 75.0" &gt;&lt;img width="4032" height="2688" src="https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/archives/assets/8b4d2334469ffa39b59e6fdb37c8c601.jpeg" /&gt;&lt;/figure&gt;&lt;/div&gt;&lt;div class="photos"&gt;
-&lt;figure style="flex: 75.0" &gt;&lt;img width="4032" height="2688" src="https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/archives/assets/0f5023d542a33e7c9d270f3cd6a99562.jpeg" /&gt;&lt;/figure&gt;
-&lt;figure style="flex: 75.0" &gt;&lt;img width="4032" height="2688" src="https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/archives/assets/20ec69d2a0276336f95e11f42866d17f.jpeg" /&gt;&lt;/figure&gt;
-&lt;figure style="flex: 75.0" &gt;&lt;img width="4032" height="2688" src="https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/archives/assets/2b8af25285e5a193729a350593113bad.jpeg" /&gt;&lt;/figure&gt;&lt;/div&gt;&lt;h2&gt;Table&lt;/h2&gt;
+&lt;figure&gt;&lt;img data-width="4032" data-height="2688" src="https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/archives/assets/4956a144888cdbbb6c2df1d1d15384b0.jpeg" alt="" /&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img data-width="2690" data-height="2688" src="https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/archives/assets/4c66f0da616b08325b3aaa4c8b3f68e1.jpg" alt="" /&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img data-width="4032" data-height="2688" src="https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/archives/assets/8b4d2334469ffa39b59e6fdb37c8c601.jpeg" alt="" /&gt;&lt;/figure&gt;&lt;/div&gt;&lt;div class="photos"&gt;
+&lt;figure&gt;&lt;img data-width="4032" data-height="2688" src="https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/archives/assets/0f5023d542a33e7c9d270f3cd6a99562.jpeg" alt="" /&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img data-width="4032" data-height="2688" src="https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/archives/assets/20ec69d2a0276336f95e11f42866d17f.jpeg" alt="" /&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img data-width="4032" data-height="2688" src="https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/archives/assets/2b8af25285e5a193729a350593113bad.jpeg" alt="" /&gt;&lt;/figure&gt;&lt;/div&gt;&lt;h2&gt;Table&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;&lt;tr&gt;
 &lt;th&gt;header&lt;/th&gt;
@@ -78,118 +78,7 @@
 &lt;/table&gt;
 &lt;h2&gt;Link Card&lt;/h2&gt;
 &lt;div class="links"&gt;
-&lt;a style="display:block" target="_blank" href="https://www.imalan.cn" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://secure.gravatar.com/avatar/1741a6eef5c824899e347e4afcbaa75d?s=200&amp;r=G&amp;d="&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;AlanDecode&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;Home page for AlanDecode &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</description><author>zhangchaoyi13@foxmail.com (AlanDecode)</author><guid isPermaLink="true">/archives/typography/</guid><pubDate>Wed, 18 Dec 2019 16:50:00 +0806</pubDate></item><item><title>轮子的新生</title><link>/archives/copy/</link><description>&lt;h1&gt;Blog-With-GitHub-Boilerplate&lt;/h1&gt;
-&lt;blockquote&gt;&lt;p&gt;💡 注意：这不是所谓使用 Maverick 的「标准方法」，只不过是利用 Maverick 与 GitHub Actions 写博客一个流程而已。不要觉得非得这样不可。Maverick 的用法见 &lt;a href="https://github.com/AlanDecode/Maverick"&gt;README.md&lt;/a&gt;。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;这是博客文章&lt;a href="https://blog.imalan.cn/archives/blog-with-github/"&gt;《完全用 GitHub 写博客》&lt;/a&gt;所提出方法的示例仓库。你可以将这个仓库 fork 到自己的账户下（点击右上角的 Fork 按钮），然后按照本文档余下的内容操作一遍，就知道该如何使用了。&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;Fork 之后暂时不要修改仓库名称，保持 Blog-With-GitHub-Boilerplate&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;第一步：为仓库开启 Pages 服务&lt;/h2&gt;
-&lt;p&gt;&lt;figure style="flex: 462.0689655172414" &gt;&lt;img width="536" height="58" src="https://github.com/AlanDecode/Blog-With-GitHub-Boilerplate/raw/source/assets/image-20191218153736217.png" /&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;进入 Fork 的仓库，点击右上角这个 Settings 按钮，找到 GitHub Pages 相关设置：&lt;/p&gt;
-&lt;p&gt;&lt;figure style="flex: 71.1977186311787" &gt;&lt;img width="749" height="526" src="https://github.com/AlanDecode/Blog-With-GitHub-Boilerplate/raw/source/assets/image-20191218153908353.png" /&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;设置发布来源为 gh-pages branch，稍等片刻你就可以通过类似 &lt;code&gt;https://&amp;lt;用户名&amp;gt;.github.io/Blog-With-GitHub-Boilerplate&lt;/code&gt; 这样的链接访问你的网站了。&lt;/p&gt;
-&lt;h2&gt;第二步：为仓库添加一个 token&lt;/h2&gt;
-&lt;p&gt;为了让 GitHub Actions 可以自动更新你的网站，需要添加一个 Token。点击&lt;a href="https://github.com/settings/tokens"&gt;这个网址&lt;/a&gt;，点击右上角的 Generate new token，起个名字并勾选 repo 复选框：&lt;/p&gt;
-&lt;p&gt;&lt;figure style="flex: 82.74793388429752" &gt;&lt;img width="801" height="484" src="https://github.com/AlanDecode/Blog-With-GitHub-Boilerplate/raw/source/assets/image-20191218154358592.png" /&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;点击页脚的 Generate Token，新的 token 会显示出来，把它复制下来，保存好。关了这个页面你就永远也看不到它了。&lt;/p&gt;
-&lt;p&gt;&lt;figure style="flex: 172.72727272727272" &gt;&lt;img width="760" height="220" src="https://github.com/AlanDecode/Blog-With-GitHub-Boilerplate/raw/source/assets/image-20191218154525529.png" /&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;回到仓库中，进入 Setting，坐标找到 Secrets 选项卡，新建一个名叫 PERSONAL_TOKEN 的 secret：&lt;/p&gt;
-&lt;p&gt;&lt;figure style="flex: 75.85185185185185" &gt;&lt;img width="1024" height="675" src="https://github.com/AlanDecode/Blog-With-GitHub-Boilerplate/raw/source/assets/image-20191218154724925.png" /&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;💡 从这里开始我们会对仓库的文件做一些修改，如果你电脑上有安装 Git，可以把仓库 clone 到本地，完成修改后提交并 push 回去；如果没有安装，可以直接在浏览器中编辑文件。&lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;第三步：尝试修改一下网站设置&lt;/h2&gt;
-&lt;blockquote&gt;&lt;p&gt;新 fork 的仓库可能需要手动打开 Actions。点击仓库顶部的 Actions 按钮：&lt;/p&gt;
-&lt;p&gt;&lt;figure style="flex: 92.91044776119404" &gt;&lt;img width="249" height="134" src="https://github.com/AlanDecode/Blog-With-GitHub-Boilerplate/raw/source/assets/image-20191219104540016.png" /&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;如果出现了以下提示，点击 "I understand my workflows, go ahead and run them".&lt;/p&gt;
-&lt;p&gt;&lt;figure style="flex: 117.68617021276596" &gt;&lt;img width="885" height="376" src="https://github.com/AlanDecode/Blog-With-GitHub-Boilerplate/raw/source/assets/enable-action.png" /&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;回到仓库首页，点击 conf.py 文件，然后点击编辑按钮：&lt;/p&gt;
-&lt;p&gt;&lt;figure style="flex: 180.5944055944056" &gt;&lt;img width="1033" height="286" src="https://github.com/AlanDecode/Blog-With-GitHub-Boilerplate/raw/source/assets/image-20191218155128999.png" /&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;为你的网站起个名字，填写到 &lt;code&gt;site_name&lt;/code&gt; 这里&lt;/li&gt;
-&lt;li&gt;修改 &lt;code&gt;author&lt;/code&gt;，&lt;code&gt;email&lt;/code&gt;，&lt;code&gt;description&lt;/code&gt; 等选项为你的内容&lt;/li&gt;
-&lt;li&gt;其它选项也可以随意修改（暂时不要修改 &lt;code&gt;site_prefix&lt;/code&gt; 选项）&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;点击页脚的 Commit changes，稍等片刻再访问 &lt;code&gt;https://&amp;lt;用户名&amp;gt;.github.io/Blog-With-GitHub-Boilerplate&lt;/code&gt; 看是不是已经更新了。如果没有，请点击仓库标题下方的 Actions 按钮，在里面查看自动构建状态。&lt;/p&gt;
-&lt;h3&gt;第四步：尝试发布新的内容&lt;/h3&gt;
-&lt;p&gt;点击进入仓库的 src 文件夹，并点击 Create new file&lt;/p&gt;
-&lt;p&gt;&lt;figure style="flex: 334.0625" &gt;&lt;img width="1069" height="160" src="https://github.com/AlanDecode/Blog-With-GitHub-Boilerplate/raw/source/assets/image-20191218155835654.png" /&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;填写文件名以及内容。文件名可以起 &lt;code&gt;我的第一篇文章.md&lt;/code&gt;，内容可以参考这样的：&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;---
-layout: post
-title: 我的第一篇文章
-slug: my-first-awesome-post
-date: 2019-12-17 20:34
-status: publish
-author: &amp;lt;填写你的名字&amp;gt;
-categories: 
-  - 默认分类
-tags: 
-  - 博客
-  - GitHub
-excerpt: Hello World!
----
-
-这是我的第一篇文章。文章使用 GitHub 管理，并通过 GitHub Actions 自动构建与发布！&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;点击页脚的 Commit new file，稍等片刻再访问 &lt;code&gt;https://&amp;lt;用户名&amp;gt;.github.io/Blog-With-GitHub-Boilerplate&lt;/code&gt;，可见新文章已经发布了！&lt;/p&gt;
-&lt;h2&gt;第五步：使用 jsDelivr 作为博客的 CDN 服务&lt;/h2&gt;
-&lt;p&gt;回到仓库首页，点击 conf.py 文件，然后点击编辑按钮。修改 &lt;code&gt;enable_jsdelivr&lt;/code&gt; 如下：&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;enable_jsdelivr = {
-    "enabled": True,
-    "repo": "&amp;lt;你的用户名&amp;gt;/Blog-With-GitHub-Boilerplate@gh-pages"
-}&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;点击 Commit changes。然后修改你刚才添加的文章，在里面插入一张仓库中的图片：&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;这是我的第一篇文章。文章使用 GitHub 管理，并通过 GitHub Actions 自动构建与发布！
-
-![幽灵公主剧照](./images/Mononoke_Hime.jpg)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;发布后稍等片刻再访问你的网站，此时网站的图片都通过 jsDelivr 传输的。不信的话在图片上右键选择「在新标签页中打开图片」，看链接是否以 &lt;code&gt;cdn.jsdelivr.net&lt;/code&gt; 开头。&lt;/p&gt;
-&lt;p&gt;要插入你自己的图片，请把图片上传到 &lt;code&gt;src/images&lt;/code&gt; 文件夹里，然后在文章中使用 Markdown 语法引用即可。&lt;/p&gt;
-&lt;h2&gt;第六步：进行更多的自定义与创作&lt;/h2&gt;
-&lt;p&gt;经过以上的步骤你已经学会了自定义网站、添加文章与修改文章。接下来就该你自由发挥了。仓库中 conf.py 里面的内容都可以自定义修改，特别要注意格式，比如引号要使用英文引号之类的。针对网站的设置项请参考 &lt;a href="https://github.com/AlanDecode/Maverick/blob/master/README.md"&gt;Maverick/README.md&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;仓库自带的 about.md 与 Typography 都可改可删，全看你。&lt;/p&gt;
-&lt;p&gt;仓库&lt;code&gt;src/static&lt;/code&gt; 文件夹中有一个 logo.png，这是示例 logo。你可以在这个文件夹中上传新的 logo 图片，最好是方形的图片，然后在 conf.py 中修改 &lt;code&gt;site_logo&lt;/code&gt; 为 &lt;code&gt;"${static_prefix}新的logo.png"&lt;/code&gt; 即可。&lt;/p&gt;
-&lt;p&gt;现在可以把仓库名称改成你想要的名字了。改了之后，记得将 conf.py 中的 &lt;code&gt;site_prefix&lt;/code&gt; 设置为 &lt;code&gt;"/&amp;lt;新的仓库名&amp;gt;/"&lt;/code&gt;，并且对应修改 &lt;code&gt;enable_jsdelivr&lt;/code&gt; 选项的内容。&lt;/p&gt;
-&lt;p&gt;如果要将仓库名修改为 &lt;code&gt;&amp;lt;用户名&amp;gt;.github.io&lt;/code&gt; 的形式，请看 &lt;a href="https://github.com/AlanDecode/Blog-With-GitHub-Boilerplate/blob/source/About-User-Pages.md"&gt;About-User-Pages&lt;/a&gt;。&lt;/p&gt;
-&lt;h2&gt;第七步：在本地进行创作&lt;/h2&gt;
-&lt;p&gt;你可以把仓库 clone 到电脑上，修改后再将修改 push 回去。如果你的电脑上有安装 &lt;code&gt;make&lt;/code&gt;，则这个过程可以方便一些：&lt;/p&gt;
-&lt;p&gt;升级 Maverick：&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;make mvrk
-&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;升级主题：&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;make theme
-&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;修改站点：&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;make &lt;span class="nv"&gt;msg&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;Add some change&amp;quot;&lt;/span&gt; site
-&lt;/pre&gt;&lt;/div&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;关于如何在电脑上使用 Git&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;如果你之前没有使用过 GitHub，那么需要进行一定的设置。如果你的电脑是 macOS 或者 Linux，git 可能是默认安装在电脑上的；如果是 Windows，则需要到&lt;a href="https://git-scm.com/downloads"&gt;这里&lt;/a&gt;下载合适的 Git 安装到电脑上。记得安装时选中将  git 添加到 PATH。&lt;/p&gt;
-&lt;p&gt;文件管理器中右键，点击 Git Bash Here，在弹出的窗口中输入：&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;git config --global user.name "你的GitHub用户名"
-git config --global user.email "你的GitHub邮箱"
-git config --global credential.helper store&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;之后到仓库右上角的 Clone or download 那里，复制仓库链接（建议使用 HTTPS）：&lt;/p&gt;
-&lt;p&gt;&lt;figure style="flex: 82.94314381270902" &gt;&lt;img width="496" height="299" src="https://github.com/AlanDecode/Blog-With-GitHub-Boilerplate/raw/source/assets/image-20191218201359204.png" /&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;在命令行中输入：&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;git clone &amp;lt;仓库链接&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;若需要输入用户名密码则输入就行。这样仓库就克隆到了本地。在仓库中进行修改后，这样提交文件：&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;# cd 到仓库文件夹后
-
-git add .
-git commit -m "添加修改"
-git push&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;这样本地的修改就推送到了 GitHub。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;第八步：绑定自定义域名&lt;/h2&gt;
-&lt;p&gt;如果你有自己的域名，请在域名解析商那里将域名 CNAME 设置为 &lt;code&gt;&amp;lt;用户名&amp;gt;.github.io&lt;/code&gt;，然后回到仓库，在 &lt;code&gt;src/static&lt;/code&gt; 文件夹中添加一个名叫 CNAME 的文件，内容填写你自己的域名。然后在 conf.py 中修改 &lt;code&gt;site_prefix&lt;/code&gt; 为 &lt;code&gt;"/"&lt;/code&gt;。稍等片刻，你的网站就能通过你的域名访问了。&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;&lt;img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License&lt;/a&gt;.&lt;/p&gt;
-</description><author>zhangchaoyi13@foxmail.com</author><guid isPermaLink="true">/archives/copy/</guid><pubDate>Fri, 21 Feb 2020 20:03:00 +0806</pubDate></item><item><title>sad</title><link>/archives/sad/</link><description>&lt;h2&gt;Do not go gental into that good night&lt;/h2&gt;
+&lt;a style="display:block" target="_blank" href="https://www.imalan.cn" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://secure.gravatar.com/avatar/1741a6eef5c824899e347e4afcbaa75d?s=200&amp;r=G&amp;d="&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;AlanDecode&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;Home page for AlanDecode &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</description><author>zhangchaoyi13@foxmail.com (AlanDecode)</author><guid isPermaLink="true">/archives/typography/</guid><pubDate>Wed, 18 Dec 2019 16:50:00 +0806</pubDate></item><item><title>sad</title><link>/archives/sad/</link><description>&lt;h2&gt;Do not go gental into that good night&lt;/h2&gt;
 &lt;h2&gt;Old age should burn and rave at close of day&lt;/h2&gt;
 &lt;h2&gt;Rage, rage against the dying of the light&lt;/h2&gt;
 </description><author>zhangchaoyi13@foxmail.com</author><guid isPermaLink="true">/archives/sad/</guid><pubDate>Sat, 22 Feb 2020 00:00:00 +0806</pubDate></item></channel></rss>
