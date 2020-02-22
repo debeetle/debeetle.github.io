@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: sad
-date: 2020-2-22 22:10
+date: 2020-2-22
 ---
 
 ## Do not go gental into that good night
