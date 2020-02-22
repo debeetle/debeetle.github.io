@@ -4,15 +4,10 @@ title: 轮子的新生
 slug: copy
 date: 2020-2-21 20:03
 status: publish
-author: chaos
-categories: 
-  - Maverick
 tags:
-  - 博客
+  - blog
   - Maverick
   - GitHub
-  - copy
-excerpt: blog by gitting
 ---
 
 # Blog-With-GitHub-Boilerplate
