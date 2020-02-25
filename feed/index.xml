@@ -1,17 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>实验报告</title><link>/</link><description>好耍不过人耍人</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/logo.png</url><title>实验报告</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Tue, 25 Feb 2020 18:18:44 +0806</lastBuildDate><pubDate>Tue, 25 Feb 2020 18:18:44 +0806</pubDate><item><title>世界，即非世界，是名世界</title><link>/archives/destiny/</link><description>&lt;h1&gt;光锥之内即是命运&lt;/h1&gt;
-&lt;p&gt;量子当行之年，一切都是概率。但我好像当年年轻的哥哥们，经历他们行经之处，虽然我明白我逃不了，不知道是否源自最近时常提起的我的自大。短时间预言一一实现，流沙里越陷越深，没有任何可以抓住的东西。&lt;/p&gt;
-&lt;p&gt;可是我清清楚楚地记得每一个做过的梦。最近的噩梦更甚。自从我拿着从家对面超市买的黄色塑料脸盆（类比上世纪的饭盒，我喜欢勺子打在铁盒里的声音），迄今我惊醒的次数比娘胎出来累计还多，也有可能是发胖热虚汗。当然，我清清楚楚记得噩梦的每一个细节。等汗干。看情况起床。&lt;/p&gt;
-&lt;p&gt;去火车站的路上我们一句话也没说。我只记得无心无肺，从一个呆了四年毫无归属感的地方回到另一个待了十一年毫无归属感的地方。&lt;/p&gt;
-&lt;p&gt;毕业前两星期，不断往返的两个地方。酒瘾上头，寻个“最后晚餐”的宿醉。所有人毫不意外，各司其职，喝酒寥寥更甚。&lt;/p&gt;
-&lt;p&gt;哦，那天后来风特别大，不是环境描写，算是环境特写，从寝室出发时看天，觉得可能下雨带了把伞。&lt;/p&gt;
-&lt;p&gt;所以那天烧烤店，我找了一张里面的桌子，而不是外面。一样的油腻。必点的烤茄子，大一第一次吃打开了新世界。习惯性有点违愿地要大量素菜，可能是初级消费者杂物也最少。一箱啤酒。&lt;/p&gt;
-&lt;p&gt;掏出带开瓶器的钥匙环，获得两枚铁皮币，记得小时候会砸着玩。一只一次性塑料杯，非线性倒入，以获得最快满杯和非溢出最少泡沫。&lt;/p&gt;
-&lt;p&gt;听海。&lt;/p&gt;
-&lt;p&gt;潮退之时，一饮而尽，有点潇洒。那天穿了她留给我的第一也是最后的礼物。带了“唵嘛呢叭咪吽”的戒指项链，洗了头。寒液一直下肚，气体在膨胀，这是我的可乐。我承认叫一箱有赌的成分。渐入憨境之时，摇摇欲坠，提前付账，有点反胃，夜有点深。突然有朋友说愿意捧点场，但也许是因为下雨刮风，她后来没来。一箱没喝完，止步八瓶，非常反胃。老板善意提醒带伞，深夜了，但是没超过门禁，我不敢也不愿。其实外面飘雨，但我不撑伞。胃非常难受，步步强忍，晃到食堂，弯腰扶腿，吐了一些酸水，还是咽了下去，我不敢也不愿。从食堂到寝室的时间和从店到食堂相同。终于摸到了床，倒了一杯热水以防渴醒，貌似无论何时我都会做好准备。仰面闭眼顶着灯，脱去外套，紧握戒指，煎熬胃返，咽了下去。&lt;/p&gt;
-&lt;p&gt;天亮了。&lt;/p&gt;
-&lt;p&gt;（应该待续，博客支持回溯折返更新）&lt;/p&gt;
-</description><author>zhangchaoyi13@foxmail.com</author><guid isPermaLink="true">/archives/destiny/</guid><pubDate>Tue, 26 Feb 2019 02:03:00 +0806</pubDate></item><item><title>Hello World!</title><link>/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>实验报告</title><link>/</link><description>好耍不过人耍人</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/logo.png</url><title>实验报告</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Tue, 25 Feb 2020 18:46:52 +0806</lastBuildDate><pubDate>Tue, 25 Feb 2020 18:46:52 +0806</pubDate><item><title>Hello World!</title><link>/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -93,4 +81,15 @@
 &lt;a style="display:block" target="_blank" href="https://www.imalan.cn" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://secure.gravatar.com/avatar/1741a6eef5c824899e347e4afcbaa75d?s=200&amp;r=G&amp;d="&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;AlanDecode&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;Home page for AlanDecode &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</description><author>zhangchaoyi13@foxmail.com (AlanDecode)</author><guid isPermaLink="true">/archives/typography/</guid><pubDate>Wed, 18 Dec 2019 16:50:00 +0806</pubDate></item><item><title>sad</title><link>/archives/sad/</link><description>&lt;h2&gt;Do not go gental into that good night&lt;/h2&gt;
 &lt;h2&gt;Old age should burn and rave at close of day&lt;/h2&gt;
 &lt;h2&gt;Rage, rage against the dying of the light&lt;/h2&gt;
-</description><author>zhangchaoyi13@foxmail.com</author><guid isPermaLink="true">/archives/sad/</guid><pubDate>Sat, 22 Feb 2020 00:00:00 +0806</pubDate></item></channel></rss>
+</description><author>zhangchaoyi13@foxmail.com</author><guid isPermaLink="true">/archives/sad/</guid><pubDate>Sat, 22 Feb 2020 00:00:00 +0806</pubDate></item><item><title>光锥之内即是命运</title><link>/archives/destiny/</link><description>&lt;p&gt;量子当行之年，一切都是概率。但我好像当年年轻的哥哥们，经历他们行经之处，虽然我明白我逃不了，不知道是否源自最近时常提起的我的自大。短时间预言一一实现，流沙里越陷越深，没有任何可以抓住的东西。&lt;/p&gt;
+&lt;p&gt;可是我清清楚楚地记得每一个做过的梦。最近的噩梦更甚。自从我拿着从家对面超市买的黄色塑料脸盆（类比上世纪的饭盒，我喜欢勺子打在铁盒里的声音），迄今我惊醒的次数比娘胎出来累计还多，也有可能是发胖热虚汗。当然，我清清楚楚记得噩梦的每一个细节。等汗干。看情况起床。&lt;/p&gt;
+&lt;p&gt;去火车站的路上我们一句话也没说。我只记得无心无肺，从一个呆了四年毫无归属感的地方回到另一个待了十一年毫无归属感的地方。&lt;/p&gt;
+&lt;p&gt;毕业前两星期，不断往返的两个地方。酒瘾上头，寻个“最后晚餐”的宿醉。所有人毫不意外，各司其职，喝酒寥寥更甚。&lt;/p&gt;
+&lt;p&gt;哦，那天后来风特别大，不是环境描写，算是环境特写，从寝室出发时看天，觉得可能下雨带了把伞。&lt;/p&gt;
+&lt;p&gt;所以那天烧烤店，我找了一张里面的桌子，而不是外面。一样的油腻。必点的烤茄子，大一第一次吃打开了新世界。习惯性有点违愿地要大量素菜，可能是初级消费者杂物也最少。一箱啤酒。&lt;/p&gt;
+&lt;p&gt;掏出带开瓶器的钥匙环，获得两枚铁皮币，记得小时候会砸着玩。一只一次性塑料杯，非线性倒入，以获得最快满杯和非溢出最少泡沫。&lt;/p&gt;
+&lt;p&gt;听海。&lt;/p&gt;
+&lt;p&gt;潮退之时，一饮而尽，有点潇洒。那天穿了她留给我的第一也是最后的礼物。带了“唵嘛呢叭咪吽”的戒指项链，洗了头。寒液一直下肚，气体在膨胀，这是我的可乐。我承认叫一箱有赌的成分。渐入憨境之时，摇摇欲坠，提前付账，有点反胃，夜有点深。突然有朋友说愿意捧点场，但也许是因为下雨刮风，她后来没来。一箱没喝完，止步八瓶，非常反胃。老板善意提醒带伞，深夜了，但是没超过门禁，我不敢也不愿。其实外面飘雨，但我不撑伞。胃非常难受，步步强忍，晃到食堂，弯腰扶腿，吐了一些酸水，还是咽了下去，我不敢也不愿。从食堂到寝室的时间和从店到食堂相同。终于摸到了床，倒了一杯热水以防渴醒，貌似无论何时我都会做好准备。仰面闭眼顶着灯，脱去外套，紧握戒指，煎熬胃返，咽了下去。&lt;/p&gt;
+&lt;p&gt;天亮了。&lt;/p&gt;
+&lt;p&gt;（应该待续，博客支持回溯折返更新）&lt;/p&gt;
+</description><author>zhangchaoyi13@foxmail.com</author><guid isPermaLink="true">/archives/destiny/</guid><pubDate>Wed, 26 Feb 2020 02:03:00 +0806</pubDate></item></channel></rss>
