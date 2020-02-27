@@ -68,6 +68,6 @@ head_addon = r'''
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
 '''
 
-
+footer_addon = ''
 
 body_addon = ''
