@@ -55,11 +55,7 @@ nav = [
 ]
 
 social_links = [
-    {
-        "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
-        "icon": "gi gi-twitter"
-    },
+
     {
         "name": "GitHub",
         "url": "https://github.com/moneytold",
@@ -72,6 +68,6 @@ head_addon = r'''
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
 '''
 
-footer_addon = ''
+
 
 body_addon = ''
