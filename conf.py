@@ -33,7 +33,12 @@ external_links = [
     {
         "name": "Maverick",
         "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
+        "brief": "🏄‍ Go My Own Way"
+    },
+    {
+        "name": "像素答疑“,
+        "url": "https://hijiangtao.github.io/2017/07/09/Device-Viewport-and-Pixel-Introduction/",
+        "brief": "前端各类像素概念以及viewport汇总"
     }
 ]
 nav = [
