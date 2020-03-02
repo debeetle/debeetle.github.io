@@ -36,7 +36,7 @@ external_links = [
         "brief": "🏄‍ Go My Own Way"
     },
     {
-        "name": "像素答疑“,
+        "name": "像素答疑",
         "url": "https://hijiangtao.github.io/2017/07/09/Device-Viewport-and-Pixel-Introduction/",
         "brief": "前端各类像素概念以及viewport汇总"
     }
