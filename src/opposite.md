@@ -1,7 +1,16 @@
 ---
 layout: post
-title: sad
-date: 2020-2-22
+title: Interstellar
+slug: Interstellar
+date: 2020-2-22 18:54
+status: publish
+categories: 
+  - poem
+  - Interstellar
+tags: 
+  - gental
+  - night
+  - rage against
 ---
 
 ## Do not go gental into that good night
