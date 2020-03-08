@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>实验报告</title><link>/</link><description>好耍不过人耍人</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/logo.png</url><title>实验报告</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Fri, 06 Mar 2020 14:02:04 +0806</lastBuildDate><pubDate>Fri, 06 Mar 2020 14:02:04 +0806</pubDate><item><title>Hello World!</title><link>/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>实验报告</title><link>/</link><description>好耍不过人耍人</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/logo.png</url><title>实验报告</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Sun, 08 Mar 2020 04:48:24 +0806</lastBuildDate><pubDate>Sun, 08 Mar 2020 04:48:24 +0806</pubDate><item><title>Hello World!</title><link>/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -92,7 +92,7 @@
 &lt;p&gt;潮退之时，一饮而尽，有点潇洒。那天穿了她留给我的第一也是最后的礼物。带了“唵嘛呢叭咪吽”的戒指项链，洗了头。寒液一直下肚，气体在膨胀，这是我的可乐。我承认叫一箱有赌的成分。渐入憨境之时，摇摇欲坠，提前付账，有点反胃，夜有点深。突然有朋友说愿意捧点场，但也许是因为下雨刮风，她后来没来。一箱没喝完，止步八瓶，非常反胃。老板善意提醒带伞，深夜了，但是没超过门禁，我不敢也不愿。其实外面飘雨，但我不撑伞。胃非常难受，步步强忍，晃到食堂，弯腰扶腿，吐了一些酸水，还是咽了下去，我不敢也不愿。从食堂到寝室的时间和从店到食堂相同。终于摸到了床，倒了一杯热水以防渴醒，貌似无论何时我都会做好准备。仰面闭眼顶着灯，脱去外套，紧握戒指，煎熬胃返，咽了下去。&lt;/p&gt;
 &lt;p&gt;天亮了。&lt;/p&gt;
 &lt;p&gt;（应该待续，博客支持回溯折返更新）&lt;/p&gt;
-</description><author>zhangchaoyi13@foxmail.com</author><guid isPermaLink="true">/archives/destiny/</guid><pubDate>Wed, 26 Feb 2020 02:03:00 +0806</pubDate></item><item><title>小鹤音形实验报告</title><link>/archives/flyin/</link><description>&lt;h2&gt;随想&lt;/h2&gt;
+</description><author>zhangchaoyi13@foxmail.com</author><guid isPermaLink="true">/archives/destiny/</guid><pubDate>Wed, 26 Feb 2020 02:03:00 +0806</pubDate></item><item><title>小鹤音形实验报告</title><link>/archives/ifly/</link><description>&lt;h2&gt;随想&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.flypy.com"&gt;小鹤音形官方网站&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;我不希望人工智能完全霸占我的输入法，方便的时候挺方便，智障的时候也是真的智障。另外我也不满中国人习惯于使用美式键盘，传教士真是为我国操碎了心，弄出拼音，但汉语是有字形的，仅仅拿来主义而不扬长避短我个人是无法接受的。五笔学习成本过高，总感觉得不偿失，究其，还是因为硬件上是美式全键盘。为了进一步提高我汉语的输入能力，发扬中华民族传统文化，主要是享受低重码率的快感。我决定选择这样一款江湖传说的中文输入方案。&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;以上内容均使用windows 10自带输入法小鹤双拼布局输入，目前觉得双形还是很迷惑。&lt;/p&gt;
@@ -101,7 +101,7 @@
 &lt;blockquote&gt;&lt;p&gt;以上内容使用双形输入，目前比双拼稍慢，至于全拼没有科学对比过，不做评价。Follow your heart.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2&gt;学习记录&lt;/h2&gt;
-&lt;p&gt;最早追溯到公元2015年高中毕业，终于摸到电脑的我急需训练我的打字能力，游走于各大商店搜索输入法，安装使用对比，其中也不乏“河图输入法”，这是一种结合双拼的滑行输入法（故只适用于移动触控端），仅仅根据输入频率重新设计键盘布局，配合不太灵敏的滑行数据训练，希望可以提高输入效率。就我个人而言，键盘不友好的交互和时不时的误触让我望而生畏。仅作为一个用户来说，“河图输入法”由于个人开发者的种种局限性，输入研究的专业性和知识专利的申请也无法弥补其不成熟的现实。但双拼的概念却深入我心。小学时候正是互联网发展的重要时期，时代的风口上，猪也能起飞。中国内地开始大肆模仿计算机、单片机等先进知识，但对于中文的输入一直没有良好的解决方法，一些人偏重音，一些人偏重形。输入法百花齐放，但拉丁字母的广泛使用以及现成的键盘布局让我们妥协了，自然界的普遍规律，过度繁殖，物竞天择，能量最低。但集体与个人使用还是有着不小的差别，我可以接受一定的学习成本来换取效率，我就应当选择更合适的方案。&lt;/p&gt;
+&lt;p&gt;最早追溯到公元2015年高中毕业，终于摸到电脑的我急需训练我的打字能力，游走于各大商店搜索输入法，安装使用对比，其中也不乏“河图输入法”，这是一种结合双拼的滑行输入法（故只适用于移动触控端），仅仅根据输入频率重新设计键盘布局，配合不太灵敏的滑行数据训练，希望可以提高输入效率。就我个人而言，键盘不友好的交互和时不时的误触让我望而生畏。仅作为一个用户来说，“河图输入法”由于个人开发者的种种局限性，虽有输入研究的专业性和知识专利的申请也无法弥补其不成熟的现实。但双拼的概念却深入我心。小学时候正是互联网发展的重要时期，时代的风口上，猪也能起飞。中国内地开始大肆模仿计算机、单片机等先进知识，但对于中文的输入一直没有良好的解决方法，一些人偏重音，一些人偏重形。输入法百花齐放，但拉丁字母的广泛使用以及现成的键盘布局让我们妥协了，自然界的普遍规律，过度繁殖，物竞天择，能量最低。但集体与个人使用还是有着不小的差别，我可以接受一定的学习成本来换取效率，我就应当选择更合适的方案。&lt;/p&gt;
 &lt;p&gt;五笔。守恒的原则，最难学习的使用价值是最大的。但是初入大一的我没有过多时间去练习打字，以前家里印有对照表的鼠标垫也早已不知去向。放弃。&lt;/p&gt;
 &lt;p&gt;双拼。一众推荐的小鹤双拼（终于切入主题）大概是最佳之选。首先尝试，发现官网介绍还不错，但仔细观察发现也有双拼与双形的区别。先从双拼学起。&lt;/p&gt;
 &lt;h5&gt;键位图&lt;/h5&gt;
@@ -110,10 +110,12 @@
 &lt;p&gt;全拼自不必说，就是一对一拼音映射键盘，打字过程是检索全码—输入全码，而双拼则是检索全码—检索双码—输入双码，可以粗略地推理，虽然双拼一个字只需要输入两个码，但是相对地却增加了思考时间，我个人觉得这是等价的，所以它的效率应该体现在最终熟练到抹除检索双码的时间，就会每个字比全码快一些，总体上时间在全拼上打六折，但这之间用于“熟悉”的时间究竟有多长就因人而异，试问当初全拼盲打花了自己多长时间呢。&lt;/p&gt;
 &lt;p&gt;那么加上双形呢？双形，无非是对字形输入法畏惧的慰藉品，似是而非，没有特点必然效率不高。同样的没有规律（不完全字音映射记忆量与完全字形记忆量无非心理差异），同样的特殊情形，都是无奈的妥协，文章开头既是使用双形输入，虽说极不熟练，但也足以体会一二。双拼的最终目的是降低重码率，追求盲打。但从官网给出官方输入法来看：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;倘若完全一字四码，这之间的过程又变成检索全码—检索双码—输入双码—检索双形—输入双码—候选，思维过程大大加重，已经有点得不偿失。重码率确实低，大多数情况直接上屏，无需候选，换言之还是存在需要候选的情况，而且精确code的副作用，就像专家犯错，虽然少，但是是致命的。（中国又是一个绝无允许犯错的理想国）。一山不容二虎，完全对等的几字候选排序会毫无先后，这其实有点大海（虽然经常是俩字）捞针的感觉，盲打最忌讳不确定性，从好不容易降低的重码率得到的自信瞬间在这里瓦解，综合来看又是等价。&lt;/li&gt;
-&lt;li&gt;倘若容许简码辅助输入，类似于允许模糊拼音，那么更大的麻烦来了。输入法对简拼与全拼根本无法区分，候选栏一直在跳，此时，又与我所摈弃的全拼有什么不同呢？有点开倒车的意思。&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;倘若完全一字四码，这之间的过程又变成检索全码—检索双码—输入双码—检索双形—输入双码—候选，思维过程大大加重，已经有点得不偿失。重码率确实低，大多数情况直接上屏，无需候选，换言之还是存在需要候选的情况，而且精确code的副作用，就像专家犯错，虽然少，但是是致命的。（中国又是一个绝无允许犯错的理想国）。一山不容二虎，完全对等的几字候选排序会毫无先后，这其实有点大海（虽然经常是俩字）捞针的感觉，盲打最忌讳不确定性，从好不容易降低的重码率得到的自信瞬间在这里瓦解，综合来看又是等价。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;倘若容许简码辅助输入，类似于允许模糊拼音，那么更大的麻烦来了。输入法对简拼与全拼根本无法区分，候选栏一直在跳，此时，又与我所摈弃的全拼有什么不同呢？有点开倒车的意思。&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;综上所述，想要双拼拯救世界，不是一朝一夕地寻求一种输入方法，而是持之以恒地将一种简易键盘映射变成神经反射，建立突触。所以等价原则下，不能因为双拼挂羊头买狗肉就放弃它，也不能开始质疑之前全拼的人生有没有价值。师傅领进门，修行在个人。毕竟放弃人工智能选择它就是缘。&lt;/p&gt;
+&lt;p&gt;综上所述，想要双拼拯救世界，不是一朝一夕地寻求一种输入方法，而是持之以恒地将一种简易键盘映射变成神经反射，建立突触。所以等价原则下，不能因为双拼挂羊头卖狗肉就放弃它，也不能开始质疑之前全拼的人生有没有价值。师傅领进门，修行在个人。毕竟放弃人工智能选择它就是缘。&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;以上内容使用最新windows10自带输入法自行导入小鹤布局双拼输入（不知道在哪一版系统微软删去了自带的小鹤布局，也可能预示着人工智能终究带来了小鹤的没落），但以后不知道什么时候又会掏出双形玩一玩，毕竟官网一直在那里，不离不弃。&lt;/p&gt;
 &lt;/blockquote&gt;
-</description><author>zhangchaoyi13@foxmail.com</author><guid isPermaLink="true">/archives/flyin/</guid><pubDate>Fri, 06 Mar 2020 21:54:00 +0806</pubDate></item></channel></rss>
+</description><author>zhangchaoyi13@foxmail.com</author><guid isPermaLink="true">/archives/ifly/</guid><pubDate>Fri, 06 Mar 2020 21:54:00 +0806</pubDate></item></channel></rss>
