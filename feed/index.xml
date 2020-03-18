@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>实验报告</title><link>/</link><description>好耍不过人耍人</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/logo.png</url><title>实验报告</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Sun, 08 Mar 2020 04:48:24 +0806</lastBuildDate><pubDate>Sun, 08 Mar 2020 04:48:24 +0806</pubDate><item><title>Hello World!</title><link>/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>实验报告</title><link>/</link><description>好耍不过人耍人</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/logo.png</url><title>实验报告</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Wed, 18 Mar 2020 11:22:00 +0806</lastBuildDate><pubDate>Wed, 18 Mar 2020 11:22:00 +0806</pubDate><item><title>Hello World!</title><link>/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -113,6 +113,8 @@
 &lt;li&gt;&lt;p&gt;倘若完全一字四码，这之间的过程又变成检索全码—检索双码—输入双码—检索双形—输入双码—候选，思维过程大大加重，已经有点得不偿失。重码率确实低，大多数情况直接上屏，无需候选，换言之还是存在需要候选的情况，而且精确code的副作用，就像专家犯错，虽然少，但是是致命的。（中国又是一个绝无允许犯错的理想国）。一山不容二虎，完全对等的几字候选排序会毫无先后，这其实有点大海（虽然经常是俩字）捞针的感觉，盲打最忌讳不确定性，从好不容易降低的重码率得到的自信瞬间在这里瓦解，综合来看又是等价。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;倘若容许简码辅助输入，类似于允许模糊拼音，那么更大的麻烦来了。输入法对简拼与全拼根本无法区分，候选栏一直在跳，此时，又与我所摈弃的全拼有什么不同呢？有点开倒车的意思。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;小鹤双拼的输入中，两次摁下同一键位的概率并不算低，而相反全码因为散乱而相对分散，更不必提文章开头所述为分散击键而设计的现代流行的美式键盘了，而一旦需要摁下同一键位多次，又添加了判断次数的思维。直上直下的黑轴机械键盘也正是考虑了电子竞技中容易误触的情形。因此这又降低了输入速度。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;综上所述，想要双拼拯救世界，不是一朝一夕地寻求一种输入方法，而是持之以恒地将一种简易键盘映射变成神经反射，建立突触。所以等价原则下，不能因为双拼挂羊头卖狗肉就放弃它，也不能开始质疑之前全拼的人生有没有价值。师傅领进门，修行在个人。毕竟放弃人工智能选择它就是缘。&lt;/p&gt;
