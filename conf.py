@@ -63,7 +63,7 @@ social_links = [
 
     {
         "name": "GitHub",
-        "url": "https://github.com/moneytold",
+        "url": "https://github.com/debeetle",
         "icon": "gi gi-github"
     }
 ]
