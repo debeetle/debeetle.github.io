@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>实验报告</title><updated>2020-03-19T08:42:37.489053+08:06</updated><author><name>chaos</name><email>zhangchaoyi13@foxmail.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/logo.png</logo><subtitle>好耍不过人耍人</subtitle><entry><id>/archives/typography/</id><title>Hello World!</title><updated>2020-03-19T08:42:37.489228+00:00</updated><author><name>AlanDecode</name><email>zhangchaoyi13@foxmail.com</email><uri>https://github.com/moneytold</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>实验报告</title><updated>2020-03-19T08:43:45.453446+08:06</updated><author><name>chaos</name><email>zhangchaoyi13@foxmail.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/debeetle/debeetle.github.io@master/logo.png</logo><subtitle>好耍不过人耍人</subtitle><entry><id>/archives/typography/</id><title>Hello World!</title><updated>2020-03-19T08:43:45.453680+00:00</updated><author><name>AlanDecode</name><email>zhangchaoyi13@foxmail.com</email><uri>https://github.com/debeetle</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
@@ -50,15 +50,15 @@
 &lt;p&gt;$$C_{m\times k}=A_{m\times n}\cdot B_{n\times k}$$&lt;/p&gt;
 &lt;h2&gt;Figures&lt;/h2&gt;
 &lt;h3&gt;Single figure&lt;/h3&gt;
-&lt;p&gt;&lt;figure style="flex: 92.88888888888889" &gt;&lt;img width="836" height="450" src="https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/archives/assets/e0affbc80ccb2d596c87b520e37e7071.jpg" /&gt;&lt;figcaption&gt;Princess Mononoke&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure style="flex: 92.88888888888889" &gt;&lt;img width="836" height="450" src="https://cdn.jsdelivr.net/gh/debeetle/debeetle.github.io@master/archives/assets/e0affbc80ccb2d596c87b520e37e7071.jpg" /&gt;&lt;figcaption&gt;Princess Mononoke&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h3&gt;Photoset&lt;/h3&gt;
 &lt;div class="photos"&gt;
-&lt;figure style="flex: 75.0" &gt;&lt;img width="4032" height="2688" src="https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/archives/assets/4956a144888cdbbb6c2df1d1d15384b0.jpeg" /&gt;&lt;/figure&gt;
-&lt;figure style="flex: 50.03720238095238" &gt;&lt;img width="2690" height="2688" src="https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/archives/assets/4c66f0da616b08325b3aaa4c8b3f68e1.jpg" /&gt;&lt;/figure&gt;
-&lt;figure style="flex: 75.0" &gt;&lt;img width="4032" height="2688" src="https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/archives/assets/8b4d2334469ffa39b59e6fdb37c8c601.jpeg" /&gt;&lt;/figure&gt;&lt;/div&gt;&lt;div class="photos"&gt;
-&lt;figure style="flex: 75.0" &gt;&lt;img width="4032" height="2688" src="https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/archives/assets/0f5023d542a33e7c9d270f3cd6a99562.jpeg" /&gt;&lt;/figure&gt;
-&lt;figure style="flex: 75.0" &gt;&lt;img width="4032" height="2688" src="https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/archives/assets/20ec69d2a0276336f95e11f42866d17f.jpeg" /&gt;&lt;/figure&gt;
-&lt;figure style="flex: 75.0" &gt;&lt;img width="4032" height="2688" src="https://cdn.jsdelivr.net/gh/moneytold/moneytold.github.io@master/archives/assets/2b8af25285e5a193729a350593113bad.jpeg" /&gt;&lt;/figure&gt;&lt;/div&gt;&lt;h2&gt;Table&lt;/h2&gt;
+&lt;figure style="flex: 75.0" &gt;&lt;img width="4032" height="2688" src="https://cdn.jsdelivr.net/gh/debeetle/debeetle.github.io@master/archives/assets/4956a144888cdbbb6c2df1d1d15384b0.jpeg" /&gt;&lt;/figure&gt;
+&lt;figure style="flex: 50.03720238095238" &gt;&lt;img width="2690" height="2688" src="https://cdn.jsdelivr.net/gh/debeetle/debeetle.github.io@master/archives/assets/4c66f0da616b08325b3aaa4c8b3f68e1.jpg" /&gt;&lt;/figure&gt;
+&lt;figure style="flex: 75.0" &gt;&lt;img width="4032" height="2688" src="https://cdn.jsdelivr.net/gh/debeetle/debeetle.github.io@master/archives/assets/8b4d2334469ffa39b59e6fdb37c8c601.jpeg" /&gt;&lt;/figure&gt;&lt;/div&gt;&lt;div class="photos"&gt;
+&lt;figure style="flex: 75.0" &gt;&lt;img width="4032" height="2688" src="https://cdn.jsdelivr.net/gh/debeetle/debeetle.github.io@master/archives/assets/0f5023d542a33e7c9d270f3cd6a99562.jpeg" /&gt;&lt;/figure&gt;
+&lt;figure style="flex: 75.0" &gt;&lt;img width="4032" height="2688" src="https://cdn.jsdelivr.net/gh/debeetle/debeetle.github.io@master/archives/assets/20ec69d2a0276336f95e11f42866d17f.jpeg" /&gt;&lt;/figure&gt;
+&lt;figure style="flex: 75.0" &gt;&lt;img width="4032" height="2688" src="https://cdn.jsdelivr.net/gh/debeetle/debeetle.github.io@master/archives/assets/2b8af25285e5a193729a350593113bad.jpeg" /&gt;&lt;/figure&gt;&lt;/div&gt;&lt;h2&gt;Table&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;&lt;tr&gt;
 &lt;th&gt;header&lt;/th&gt;
@@ -78,10 +78,10 @@
 &lt;/table&gt;
 &lt;h2&gt;Link Card&lt;/h2&gt;
 &lt;div class="links"&gt;
-&lt;a style="display:block" target="_blank" href="https://www.imalan.cn" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://secure.gravatar.com/avatar/1741a6eef5c824899e347e4afcbaa75d?s=200&amp;r=G&amp;d="&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;AlanDecode&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;Home page for AlanDecode &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content><link href="/archives/typography/" rel="alternate"/><published>2019-12-18T16:50:00+08:06</published></entry><entry><id>/archives/Interstellar/</id><title>Interstellar</title><updated>2020-03-19T08:42:37.489201+00:00</updated><content>&lt;h2&gt;Do not go gental into that good night&lt;/h2&gt;
+&lt;a style="display:block" target="_blank" href="https://www.imalan.cn" class="board-item"&gt;                 &lt;div class="board-thumb"&gt;&lt;img src="https://secure.gravatar.com/avatar/1741a6eef5c824899e347e4afcbaa75d?s=200&amp;r=G&amp;d="&gt;&lt;/div&gt;                 &lt;div class="board-title"&gt;AlanDecode&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;Home page for AlanDecode &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content><link href="/archives/typography/" rel="alternate"/><published>2019-12-18T16:50:00+08:06</published></entry><entry><id>/archives/Interstellar/</id><title>Interstellar</title><updated>2020-03-19T08:43:45.453644+00:00</updated><content>&lt;h2&gt;Do not go gental into that good night&lt;/h2&gt;
 &lt;h2&gt;Old age should burn and rave at close of day&lt;/h2&gt;
 &lt;h2&gt;Rage, rage against the dying of the light&lt;/h2&gt;
-</content><link href="/archives/Interstellar/" rel="alternate"/><published>2020-02-22T18:54:00+08:06</published></entry><entry><id>/archives/destiny/</id><title>光锥之内即是命运</title><updated>2020-03-19T08:42:37.489170+00:00</updated><content>&lt;p&gt;量子当行之年，一切都是概率。但我好像当年年轻的哥哥们，经历他们行经之处，虽然我明白我逃不了，不知道是否源自最近时常提起的我的自大。短时间预言一一实现，流沙里越陷越深，没有任何可以抓住的东西。&lt;/p&gt;
+</content><link href="/archives/Interstellar/" rel="alternate"/><published>2020-02-22T18:54:00+08:06</published></entry><entry><id>/archives/destiny/</id><title>光锥之内即是命运</title><updated>2020-03-19T08:43:45.453603+00:00</updated><content>&lt;p&gt;量子当行之年，一切都是概率。但我好像当年年轻的哥哥们，经历他们行经之处，虽然我明白我逃不了，不知道是否源自最近时常提起的我的自大。短时间预言一一实现，流沙里越陷越深，没有任何可以抓住的东西。&lt;/p&gt;
 &lt;p&gt;可是我清清楚楚地记得每一个做过的梦。最近的噩梦更甚。自从我拿着从家对面超市买的黄色塑料脸盆（类比上世纪的饭盒，我喜欢勺子打在铁盒里的声音）从小镇出发又回到家中，迄今我惊醒的次数比娘胎出来累计还多，也有可能是发胖热虚汗。当然，我清清楚楚记得噩梦的每一个细节。等汗干。看情况起床。&lt;/p&gt;
 &lt;p&gt;去火车站的路上我们一句话也没说。我只记得无心无肺，从一个呆了四年毫无归属感的地方回到另一个待了十一年毫无归属感的地方。&lt;/p&gt;
 &lt;p&gt;毕业前两星期，不断往返的两个地方。酒瘾上头，寻个“最后晚餐”的宿醉。所有人毫不意外，各司其职，喝酒寥寥更甚。&lt;/p&gt;
@@ -92,7 +92,7 @@
 &lt;p&gt;潮退之时，一饮而尽，有点潇洒。那天穿了她留给我的第一也是最后的礼物。带了“唵嘛呢叭咪吽”的戒指项链，洗了头。寒液一直下肚，气体在膨胀，这是我的可乐。我承认叫一箱有赌的成分。渐入憨境之时，摇摇欲坠，提前付账，有点反胃，夜有点深。突然有朋友说愿意捧点场，但也许是因为下雨刮风，她后来没来。一箱没喝完，止步八瓶，非常反胃。老板善意提醒带伞，深夜了，但是没超过门禁，我不敢也不愿。其实外面飘雨，但我不撑伞。胃非常难受，步步强忍，晃到食堂，弯腰扶腿，吐了一些酸水，还是咽了下去，我不敢也不愿。从食堂到寝室的时间和从店到食堂相同。终于摸到了床，倒了一杯热水以防渴醒，貌似无论何时我都会做好准备。仰面闭眼顶着灯，脱去外套，紧握戒指，煎熬胃返，咽了下去。&lt;/p&gt;
 &lt;p&gt;天亮了。&lt;/p&gt;
 &lt;p&gt;（应该待续，博客支持回溯折返更新）&lt;/p&gt;
-</content><link href="/archives/destiny/" rel="alternate"/><published>2020-02-26T02:03:00+08:06</published></entry><entry><id>/archives/ifly/</id><title>小鹤音形实验报告</title><updated>2020-03-19T08:42:37.489119+00:00</updated><content>&lt;h2&gt;随想&lt;/h2&gt;
+</content><link href="/archives/destiny/" rel="alternate"/><published>2020-02-26T02:03:00+08:06</published></entry><entry><id>/archives/ifly/</id><title>小鹤音形实验报告</title><updated>2020-03-19T08:43:45.453535+00:00</updated><content>&lt;h2&gt;随想&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://www.flypy.com"&gt;小鹤音形官方网站&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;我不希望人工智能完全霸占我的输入法，方便的时候挺方便，智障的时候也是真的智障。另外我也不满中国人习惯于使用美式键盘，传教士真是为我国操碎了心，弄出拼音，但汉语是有字形的，仅仅拿来主义而不扬长避短我个人是无法接受的。五笔学习成本过高，总感觉得不偿失，究其，还是因为硬件上是美式全键盘。为了进一步提高我汉语的输入能力，发扬中华民族传统文化，主要是享受低重码率的快感。我决定选择这样一款江湖传说的中文输入方案。&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;以上内容均使用windows 10自带输入法小鹤双拼布局输入，目前觉得双形还是很迷惑。&lt;/p&gt;
