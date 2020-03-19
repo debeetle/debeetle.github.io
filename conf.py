@@ -16,7 +16,7 @@ template = {
 }
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "moneytold/moneytold.github.io@master"
+    "repo": "debeetle/debeetle.github.io@master"
 }
 
 # 站点设置
@@ -25,7 +25,7 @@ site_logo = "${static_prefix}logo.png"
 site_build_date = "2020-2-20T16:51+08:00"
 author = "chaos"
 email = "zhangchaoyi13@foxmail.com"
-author_homepage = "https://github.com/moneytold"
+author_homepage = "https://github.com/debeetle"
 description = "好耍不过人耍人"
 key_words = ['Maverick', 'chaos', 'Galileo', 'blog']
 language = 'zh-CN'
