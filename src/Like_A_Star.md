@@ -11,7 +11,7 @@ tags:
   - 钢琴
 ---
 #### 本人保留对此谱的最终解释权
-![](https://wx4.sinaimg.cn/mw690/006IDxX8ly1gdll1k3yaaj31wx2pfam0.jpg)
+![](https://https://www.jianguoyun.com/c/tblv2/kym3PpCE2h_rctvmcDOCRdzYgxeR8Q4pnqXpQgIFu4jnTDw_udemVRY_VVhrdTu1quAp40QD/dh6PQcvpqQrHZylfQXiWnQ/l)
 ![](https://wx3.sinaimg.cn/mw690/006IDxX8ly1gdll1kvbdgj31wx2pf4b6.jpg)
 ![](https://wx4.sinaimg.cn/mw690/006IDxX8ly1gdll1lgiycj31wx2pfk7k.jpg)
 ![](https://wx1.sinaimg.cn/mw690/006IDxX8ly1gdll1m19lhj31wx2pfwtq.jpg)
