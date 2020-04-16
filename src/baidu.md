@@ -16,9 +16,9 @@ tags:
 前几天刚刚爬虫入门，2020年4月15日午后，我正满怀期待iphone se二代发布，突然就有消息说pandownload开发者被捕，我近日正觉得百度网盘推出的看广告获加速后下载速度也变得极为缓慢奇怪。各大新闻平台兜兜转转最后确定消息属实，用户举报，网警跨省，微博消音等常规操作不再赘述。但我的反感情绪死灰复燃。
 
 2019年7月3日，百度CEO李彦宏在百度AI大会台上，被一名男子当众从头顶浇下一瓶矿泉水，回了句“What’s your problem”。背后的恩怨情仇我至今也不了解，当然也不想了解更不必不应该去了解。
-<div style="float:left">
-<img src="https://www.jianguoyun.com/c/tblv2/MSoFS3gIJj4DOnR8y0sgsnWIg6SC-F0k7DbO8UJnmRpOE-9WPRBEolXucZBqz_GZ0PPSvN9T/-IhFEMCsC72hBCPb2yVGbA/l" alt="宏彦获水" width="10%" >
-</div>
+
+<img src="https://www.jianguoyun.com/c/tblv2/MSoFS3gIJj4DOnR8y0sgsnWIg6SC-F0k7DbO8UJnmRpOE-9WPRBEolXucZBqz_GZ0PPSvN9T/-IhFEMCsC72hBCPb2yVGbA/l" alt="宏彦获水" width="30%" >
+
 我当时听闻有点震撼，觉得中国终于有点改变。
 
 查找与替换，中国人擅长谋略与选择，不容易做出比较出格的事情，所谓天下大同，空想共产主义适合中国的原因，”黑暗森林“想法在中国发扬而不是外国的理由，科举，因材施教，无为而治，中国特色...所以传统中国人面对困难险境，想到的首先是化险为夷，躲避与适应。中原鲜有制度革命，纵观历史，多民族国家的中国改朝换代靠的多是其他民族直接的武装征战。我们不提倡反驳前人的智慧，选择守祖训。只是起初为独裁拟定神的旨意，因为人是不可能指使另一个人的。其后竟就没有其他统治思想的出现，直到明清末年才有类似群体组织领导，长期的代代相传让我们觉得成为群体的一部分也挺好（这些让我想到了心理测量者和寄生兽）。暗渡陈仓是我们的首要选择，而非原始的，生物的，种群无意义的直接对抗。
