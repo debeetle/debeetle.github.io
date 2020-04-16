@@ -17,7 +17,7 @@ tags:
 
 ​		2019年7月3日，百度CEO李彦宏在百度AI大会台上，被一名男子当众从头顶浇下一瓶矿泉水，回了句“What’s your problem”。背后的恩怨情仇我至今也不了解，当然也不想了解更不必不应该去了解。
 
-<img src="https://www.jianguoyun.com/c/tblv2/MSoFS3gIJj4DOnR8y0sgsnWIg6SC-F0k7DbO8UJnmRpOE-9WPRBEolXucZBqz_GZ0PPSvN9T/-IhFEMCsC72hBCPb2yVGbA/l" alt="宏彦获水w" style="zoom:30%;" />
+<img src="https://www.jianguoyun.com/c/tblv2/MSoFS3gIJj4DOnR8y0sgsnWIg6SC-F0k7DbO8UJnmRpOE-9WPRBEolXucZBqz_GZ0PPSvN9T/-IhFEMCsC72hBCPb2yVGbA/l" alt="宏彦获水" style="zoom:10%;" />
 
 ​		我当时听闻有点震撼，觉得中国终于有点改变。
 
